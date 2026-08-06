@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Prontuário Eletrônico Serviço Escola de Psicologia
+
+nav: 
+ - Home: index.md
+ - About: about.md
+ - Requisitos: requisitos.md
