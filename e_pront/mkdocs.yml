@@ -1,6 +1,7 @@
 site_name: Prontuário Eletrônico Serviço Escola de Psicologia
-
 nav: 
  - Home: index.md
  - About: about.md
  - Requisitos: requisitos.md
+
+theme: material
